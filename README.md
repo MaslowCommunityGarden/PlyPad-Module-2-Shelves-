@@ -9,18 +9,22 @@ The PlyPad project was a project run by Maslow during the winter of 2017 in coop
 The project was an experiment on multiple fronts with multiple organizations directing the design, and an experimental construction technique and I would not recommend building this design again directly, however many of the lessons learned are valuable and can be easily applied to future projects or an updated and improved version of this design.
 
 Loading the shelf module onto the flat bed truck:
+
 ![Loading the shelf module onto the flat bed truck](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/IMG_20180113_100437023_HDR.jpg)
 
-
 Shelf module installed in Kenton:
+
 ![Shelf module installed in Kenton](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/IMG_20180113_140246286_HDR.jpg)
 
-Shelf module on display at the Portland Art Museum
+Shelf module on display at the Portland Art Museum:
+
 ![Shelf module on display at the Portland Art Museum](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20at%20museum.jpg)
 
 Shelves interior:
+
 ![Shelves interior](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20interior%202.jpg)
 
 Shelves interior two:
+
 ![shelves interior two](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20interior.jpg)
 
