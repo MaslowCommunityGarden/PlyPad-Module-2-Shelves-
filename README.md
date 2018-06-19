@@ -10,21 +10,21 @@ The project was an experiment on multiple fronts with multiple organizations dir
 
 Loading the shelf module onto the flat bed truck:
 
-![Loading the shelf module onto the flat bed truck](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/IMG_20180113_100437023_HDR.jpg)
+![Loading the shelf module onto the flat bed truck](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/IMG_20180113_100437023_HDR.jpg)
 
 Shelf module installed in Kenton:
 
-![Shelf module installed in Kenton](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/IMG_20180113_140246286_HDR.jpg)
+![Shelf module installed in Kenton](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/IMG_20180113_140246286_HDR.jpg)
 
 Shelf module on display at the Portland Art Museum:
 
-![Shelf module on display at the Portland Art Museum](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20at%20museum.jpg)
+![Shelf module on display at the Portland Art Museum](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/shelves%20at%20museum.jpg)
 
 Shelves interior:
 
-![Shelves interior](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20interior%202.jpg)
+![Shelves interior](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/shelves%20interior%202.jpg)
 
 Shelves interior two:
 
-![shelves interior two](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/shelves%20interior.jpg)
+![shelves interior two](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/shelves%20interior.jpg)
 
