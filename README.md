@@ -10,7 +10,7 @@ The project was an experiment on multiple fronts with multiple organizations dir
 
 CAD Drawing of the module:
 
-![CAD Drawing](https://github.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/blob/master/pictures/CAD%20Drawing.jpg)
+![CAD Drawing](https://raw.githubusercontent.com/MaslowCommunityGarden/PlyPad-Module-2-Shelves-/master/pictures/CAD%20Drawing.jpg)
 
 Loading the shelf module onto the flat bed truck:
 
